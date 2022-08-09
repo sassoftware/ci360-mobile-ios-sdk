@@ -21,7 +21,7 @@ For the latest changes to the mobile SDK, see [Mobile SDK Change Log for SAS Cus
 
 Ensure that you adhere to supported operating system and software requirements.
  
-[Supported Operating System and Software Requirements](https://pubshelpcenter.unx.sas.com/test/doc/en/cintcdc/22.02/cintmobdg/p1h8jvnp7o4rvkn1w7q5ikdsmpdw.htm#p0clsq3v78tlc4n1t8bo41hre44n)
+[Supported Operating System and Software Requirements](https://documentation.sas.com/?cdcId=cintcdc&cdcVersion=default&docsetId=cintmobdg&docsetTarget=p1h8jvnp7o4rvkn1w7q5ikdsmpdw.htm#p0clsq3v78tlc4n1t8bo41hre44n)
  
 Before you begin, you will need to obtain the application ID that the SAS Customer Intelligence 360 user defined for the mobile app in SAS Customer Intelligence 360.
 
@@ -31,7 +31,7 @@ See the installation documentation [here](https://pubshelpcenter.unx.sas.com/tes
 
 ## Getting Started
 
-To get started using the SAS Customer Intelligence 360 Mobile SDK see [SAS Customer Intelligence 360: Developer’s Guide for Mobile Applications](https://pubshelpcenter.unx.sas.com/test/doc/en/cintcdc/22.02/cintmobdg/titlepage.htm).
+To get started using the SAS Customer Intelligence 360 Mobile SDK see [SAS Customer Intelligence 360: Developer’s Guide for Mobile Applications](https://documentation.sas.com/?cdcId=cintcdc&cdcVersion=default&docsetId=cintmobdg&docsetTarget=titlepage.htm).
 
 ## Contributing
 
