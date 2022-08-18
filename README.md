@@ -27,7 +27,7 @@ Before you begin, you will need to obtain the application ID that the SAS Custom
 
 ### Installation
 
-See the installation documentation [here](https://pubshelpcenter.unx.sas.com/test/doc/en/cintcdc/22.02/cintmobdg/p0x4f1oewsipq8n1n1s1tuinjteh.htm)
+See the installation documentation [here](https://go.documentation.sas.com/doc/en/cintcdc/production.a/cintmobdg/p0x4f1oewsipq8n1n1s1tuinjteh.htm)
 
 ## Getting Started
 
