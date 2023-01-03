@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SASCollector",
-            url: "https://sdk.ci360.sas.com/ios/1.71.1/SASCollector-1.71.1.zip",
-            checksum: "ad9f4895c53cff54b6ba9a26273710e9546226c52b8864884792e99fc1660b7f"
+            url: "https://sdk.ci360.sas.com/ios/1.71.2/SASCollector-1.71.2.zip",
+            checksum: "7410f52ecc0e926e719e34695dd1338c2d74919ad16ffe0831a0379c18ae13be"
         )
     ]
 )
